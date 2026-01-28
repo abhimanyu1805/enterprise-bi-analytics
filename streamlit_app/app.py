@@ -79,7 +79,7 @@ fig_revenue = px.bar(
     x="payment_type",
     y="payment_value",
     color="payment_type",
-    title="Revenue by Payment Type",
+    title="Revenue by Payment Type", ## double title cuming
     labels={"payment_value": "Revenue"}
 )
 
