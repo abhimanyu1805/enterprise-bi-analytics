@@ -17,6 +17,22 @@ The solution covers:
 
 ---
 
+## Dataset Source
+
+The dataset used in this project is derived from the **Brazilian E-Commerce Public Dataset by Olist**, which is publicly available on Kaggle.
+
+- **Source:** Olist (Brazilian e-commerce marketplace)
+- **Data Type:** Real-world transactional e-commerce data
+- **Scope Includes:**
+  - Orders
+  - Payments
+  - Customers
+  - Delivery timelines
+  - Order status information
+
+This dataset contains **thousands of real customer orders** and is widely used in **industry-oriented business intelligence, analytics, and data science case studies** to simulate real operational environments.
+
+
 ## Project Workflow
 
 1. Raw Data Ingestion  
